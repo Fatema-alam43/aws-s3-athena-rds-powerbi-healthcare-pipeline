@@ -4,7 +4,7 @@
 
 This project analyzes stroke risk factors from a 5,110-patient healthcare dataset using a fully cloud-based pipeline built on **AWS Free Tier** and visualized in **Power BI**. The goal was to build a working, end-to-end data solution — from raw data ingestion to an interactive analytics dashboard — using the same tools and workflow expected in a real data & AI solutions role: S3 for storage, Python for data cleaning, RDS (PostgreSQL) for structured SQL analysis, Athena/Glue for serverless querying, and Power BI for visualization. The result is a 6-page interactive dashboard uncovering clear, data-backed patterns in stroke risk — most notably that risk rises sharply with age and compounds significantly when hypertension, heart disease, high glucose, and obesity occur together — while staying transparent about the dataset's real limitations.
 
-**Watch the walkthrough:** [AWS + Power BI: End-to-End Healthcare Data Pipeline](ADD-YOUR-LINKEDIN-VIDEO-LINK-HERE)
+**Watch the walkthrough:** [AWS + Power BI: End-to-End Healthcare Data Pipeline](https://lnkd.in/p/gCWYBrHB)
 
 ## Data Overview
 
