@@ -96,13 +96,13 @@ A 6-page interactive dashboard built from the RDS query results:
 
 | Athena — Stroke Rate by Age | Glue Data Catalog — Registered Table |
 |---|---|
-| ![Athena query](screenshots/athena_query_stroke_rate_by_age.png) | ![Glue Data Catalog](screenshots/glue_data_catalog_stroke_table.png) |
+| ![Athena query](screenshots/athena_query_stroke_rate_by_age.png) | ![Glue Data Catalog](screenshots/glue_data_catalog_proof_stroke_table.png) |
 
 ### Power BI Dashboard — All 6 Pages
 
 | Page 1 — Key Influencers & Risk Drill-Down | Page 2 — Patient Risk Explorer |
 |---|---|
-| ![Power BI page 1](screenshots/key_influencers.png) | ![Power BI page 2](screenshots/patient_risk_explorer.png) |
+| ![Power BI page 1](screenshots/Key_Influencers_Risk_Drill_Down.png) | ![Power BI page 2](screenshots/patient_risk_explorer.png) |
 
 | Page 3 — Risk Overview | Page 4 — Comorbidity Analysis & Gauge |
 |---|---|
