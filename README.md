@@ -88,14 +88,29 @@ A 6-page interactive dashboard built from the RDS query results:
 
 ## Screenshots
 
-| | |
+### AWS Pipeline
+
+| S3 — Raw Dataset Storage | RDS PostgreSQL — Database Overview |
 |---|---|
 | ![S3 bucket](screenshots/s3_bucket.png) | ![RDS console](screenshots/rds_console.png) |
-| **S3 — Raw Dataset Storage** | **RDS PostgreSQL — Database Overview** |
+
+| Athena — Stroke Rate by Age | Glue Data Catalog — Registered Table |
+|---|---|
 | ![Athena query](screenshots/athena_query_stroke_rate_by_age.png) | ![Glue Data Catalog](screenshots/glue_data_catalog_stroke_table.png) |
-| **Athena — Stroke Rate by Age** | **Glue Data Catalog — Registered Table** |
-| ![Power BI page 1](screenshots/powerbi_page1_key_influencers.png) | ![Power BI page 6](screenshots/powerbi_page6_findings_limitations.png) |
-| **Key Influencers & Risk Drill-Down** | **Findings & Limitations** |
+
+### Power BI Dashboard — All 6 Pages
+
+| Page 1 — Key Influencers & Risk Drill-Down | Page 2 — Patient Risk Explorer |
+|---|---|
+| ![Power BI page 1](screenshots/key_influencers.png) | ![Power BI page 2](screenshots/patient_risk_explorer.png) |
+
+| Page 3 — Risk Overview | Page 4 — Comorbidity Analysis & Gauge |
+|---|---|
+| ![Power BI page 3](screenshots/risk_overview.png) | ![Power BI page 4](screenshots/comorbidity_gauge.png) |
+
+| Page 5 — Data Quality | Page 6 — Findings & Limitations |
+|---|---|
+| ![Power BI page 5](screenshots/data_quality.png) | ![Power BI page 6](screenshots/findings_limitations.png) |
 
 *(See the full `/screenshots` folder for all dashboard pages and AWS console views.)*
 
